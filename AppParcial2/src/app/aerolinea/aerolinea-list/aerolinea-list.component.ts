@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Aerolinea } from '../aerolinea'
 import { AerolineaService } from '../aerolinea.service';
-import { AerolineaDetail } from '../aerolinea-detail';
+import { AerolineaDetail } from '../aerolineaDetail';
 
 @Component({
   standalone: false, 

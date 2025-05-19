@@ -1,6 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { Aerolinea } from '../aerolinea';
-import {AerolineaDetail} from '../aerolineaDetail'
+import {AerolineaDetail} from '../aerolineaDetail';
 
 @Component({
   standalone: false,

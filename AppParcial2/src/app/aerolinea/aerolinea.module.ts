@@ -1,12 +1,12 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { AerolineaComponent } from './aerolinea.component';
+import { AerolineaDetailComponent } from './aerolinea-detail/aerolinea-detail.component';
 
 @NgModule({
   imports: [
     CommonModule
   ],
-  exports: [AerolineaComponent],
-  declarations: [AerolineaComponent]
+  exports: [AerolineaDetailComponent],
+  declarations: [AerolineaDetailComponent]
 })
 export class AerolineaModule { }
